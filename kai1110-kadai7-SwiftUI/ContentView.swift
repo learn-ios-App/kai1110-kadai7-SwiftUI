@@ -14,12 +14,6 @@ struct ContentView: View {
                 }
         }
     }
-    
-    func minusNumber(number1: String, number2: String) -> String {
-        let answerNumber = (Int(number1) ?? 0) - (Int(number2) ?? 0)
-        return String(answerNumber)
-        
-    }
 }
 struct TextFieldView: View {
     @Binding var number: String
