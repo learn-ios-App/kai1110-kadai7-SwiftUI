@@ -39,8 +39,6 @@
 		0BEE4F1C2949AE34000C3EC0 = {
 			isa = PBXGroup;
 			children = (
-				0BEF9C0C294B208D0090C3E7 /* Tab1View.swift */,
-				0BEF9C0E294B21240090C3E7 /* Tab2View.swift */,
 				0BEE4F272949AE34000C3EC0 /* kai1110-kadai7-SwiftUI */,
 				0BEE4F262949AE34000C3EC0 /* Products */,
 			);
@@ -59,6 +57,8 @@
 			children = (
 				0BEE4F282949AE34000C3EC0 /* kai1110_kadai7_SwiftUIApp.swift */,
 				0BEE4F2A2949AE34000C3EC0 /* ContentView.swift */,
+				0BEF9C0C294B208D0090C3E7 /* Tab1View.swift */,
+				0BEF9C0E294B21240090C3E7 /* Tab2View.swift */,
 				0BEE4F2C2949AE37000C3EC0 /* Assets.xcassets */,
 				0BEE4F2E2949AE37000C3EC0 /* Preview Content */,
 			);
