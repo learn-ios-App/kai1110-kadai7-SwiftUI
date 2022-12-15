@@ -11,6 +11,8 @@
 		0BEE4F2B2949AE34000C3EC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEE4F2A2949AE34000C3EC0 /* ContentView.swift */; };
 		0BEE4F2D2949AE37000C3EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BEE4F2C2949AE37000C3EC0 /* Assets.xcassets */; };
 		0BEE4F302949AE37000C3EC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BEE4F2F2949AE37000C3EC0 /* Preview Assets.xcassets */; };
+		0BEF9C0D294B208D0090C3E7 /* Tab1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEF9C0C294B208D0090C3E7 /* Tab1View.swift */; };
+		0BEF9C0F294B21240090C3E7 /* Tab2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEF9C0E294B21240090C3E7 /* Tab2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		0BEE4F2A2949AE34000C3EC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0BEE4F2C2949AE37000C3EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BEE4F2F2949AE37000C3EC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0BEF9C0C294B208D0090C3E7 /* Tab1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab1View.swift; sourceTree = "<group>"; };
+		0BEF9C0E294B21240090C3E7 /* Tab2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,8 @@
 		0BEE4F1C2949AE34000C3EC0 = {
 			isa = PBXGroup;
 			children = (
+				0BEF9C0C294B208D0090C3E7 /* Tab1View.swift */,
+				0BEF9C0E294B21240090C3E7 /* Tab2View.swift */,
 				0BEE4F272949AE34000C3EC0 /* kai1110-kadai7-SwiftUI */,
 				0BEE4F262949AE34000C3EC0 /* Products */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BEF9C0D294B208D0090C3E7 /* Tab1View.swift in Sources */,
+				0BEF9C0F294B21240090C3E7 /* Tab2View.swift in Sources */,
 				0BEE4F2B2949AE34000C3EC0 /* ContentView.swift in Sources */,
 				0BEE4F292949AE34000C3EC0 /* kai1110_kadai7_SwiftUIApp.swift in Sources */,
 			);
