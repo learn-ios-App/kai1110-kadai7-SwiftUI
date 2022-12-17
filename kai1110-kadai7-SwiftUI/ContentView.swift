@@ -4,11 +4,11 @@ import SwiftUI
 struct ContentView: View {    
     var body: some View {
         TabView {
-            Tab1View()
+            CalculationView(backgroundColor: Color.red, calculation: +)
                 .tabItem {
                     Text("item 1")
                 }
-            Tab2View()
+            CalculationView(backgroundColor: Color.green, calculation: -)
                 .tabItem {
                     Text("item 2")
                 }
